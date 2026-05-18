@@ -5,5 +5,5 @@
 	<Description value="PaintUnlocked-compatible fork of OcbCustomTextures. Adds dynamic array resizing, 512 ID floor, and atlas size fixes for 256+ paint textures. Original mod by ocbMaurice." />
 	<Website value="https://github.com/Kitsune-Den/OcbPaintUnlocked" />
 	<Author value="ocbMaurice, Kitsune-Den" />
-	<Version value="0.8.0.5" />
+	<Version value="0.8.0.6" />
 </xml>
